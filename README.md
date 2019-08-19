@@ -12,7 +12,7 @@
                                 <li><b><a target="_blank" href="https://github.com/manjunath5496/Calculus-Books/blob/master/alc(10).pdf" style="text-decoration:none;">How to Solve Word Problems in Calculus: A Solved Problem Approach</a></b></li>
  <li><b><a target="_blank" href="https://github.com/manjunath5496/Calculus-Books/blob/master/alc(11).pdf" style="text-decoration:none;">Calculus for the IIT JEE  </a></b></li>                              
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Calculus-Books/blob/master/alc(12).pdf" style="text-decoration:none;">Introduction to integral calculus</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Calculus-Books/blob/master/alc(13).pdf" style="text-decoration:none;">Mathematical Analysis II. Integral Cal- culus</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Calculus-Books/blob/master/alc(13).pdf" style="text-decoration:none;">Mathematical Analysis II. Integral Calculus</a></b></li>
                                 <li><b><a target="_blank" href="https://github.com/manjunath5496/Calculus-Books/blob/master/alc(14).pdf" style="text-decoration:none;">1,001 Pre-Calculus Practice Problems For Dummies</a></b></li>  
   
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Calculus-Books/blob/master/alc(15).pdf" style="text-decoration:none;">Advanced Calculus Demystified</a></b></li>
